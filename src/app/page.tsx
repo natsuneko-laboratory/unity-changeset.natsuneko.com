@@ -24,7 +24,7 @@ const Home = () => {
       <Heading1>Unity Changesets</Heading1>
 
       <Section>
-        <Heading2 bordered>Whats is changeset in Unity?</Heading2>
+        <Heading2 bordered>What is changeset in Unity?</Heading2>
         <Paragraph>
           A Changeset in Unity is a string that fully identifies the version of
           the Unity Editor. <br />
