@@ -6,6 +6,7 @@ import d from "../app/changesets.json" assert { type: "json" };
 import {
   Cluster,
   Heading2,
+  Hyperlink,
   Input,
   Section,
   Stack,
@@ -35,13 +36,9 @@ const toVersion = (v: string): [number, number, number, number] => {
   ];
 };
 
-const version = (v: string) => {
+const release = (v: string) => {
   const [major, minor, patch, revision] = toVersion(v);
-  if (major >= 6) {
-    return major * 1000 + minor * 100 + patch * 10 + revision;
-  }
-
-  return major + minor * 100 + patch * 10 + revision;
+  return `${major}.${minor}.${patch}`;
 };
 
 const ChangesetSection: React.FC = () => {
@@ -69,14 +66,31 @@ const ChangesetSection: React.FC = () => {
             return (
               <div
                 key={w.changeset}
-                className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2 my-2"
+                className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-2 py-3 my-2 hover:bg-neutral-700"
               >
-                <div className="text-lg font-medium">
+                <div className="text-lg font-medium mb-2">
                   Unity {w.version} {w.lts ? <>(LTS)</> : null}
                 </div>
-                <div>
-                  <code>{w.changeset}</code>
-                </div>
+                <Stack gap={1}>
+                  <div>
+                    <code>{w.changeset}</code>
+                  </div>
+
+                  <div>
+                    <Hyperlink
+                      href={`https://unity.com/releases/editor/whats-new/${release(
+                        w.version
+                      )}`}
+                    >
+                      Release Note
+                    </Hyperlink>
+                  </div>
+                  <div>
+                    <Hyperlink href={`unityhub://${w.version}/${w.changeset}`}>
+                      Install via Unity Hub
+                    </Hyperlink>
+                  </div>
+                </Stack>
               </div>
             );
           })}
