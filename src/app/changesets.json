@@ -3944,67 +3944,11 @@
     "lts": false
   },
   {
-    "version": "2023.3.0a18",
-    "changeset": "e3034a5f8cf5",
-    "versionNumber": 202303000018,
+    "version": "2023.3.0b1",
+    "changeset": "8ec5c23b39da",
+    "versionNumber": 202303000101,
     "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a17",
-    "changeset": "771c7abb2095",
-    "versionNumber": 202303000017,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a16",
-    "changeset": "98f6a77c9a64",
-    "versionNumber": 202303000016,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a15",
-    "changeset": "88af49042196",
-    "versionNumber": 202303000015,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a14",
-    "changeset": "d34fa7f1f506",
-    "versionNumber": 202303000014,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a13",
-    "changeset": "b2bd7e935bab",
-    "versionNumber": 202303000013,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a12",
-    "changeset": "3268c45751a1",
-    "versionNumber": 202303000012,
-    "minor": "2023.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "2023.3.0a11",
-    "changeset": "e6d77d26a287",
-    "versionNumber": 202303000011,
-    "minor": "2023.3",
-    "lifecycle": "a",
+    "lifecycle": "b",
     "lts": false
   }
 ]
