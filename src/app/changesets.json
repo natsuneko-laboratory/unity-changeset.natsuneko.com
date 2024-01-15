@@ -3968,6 +3968,14 @@
     "lts": false
   },
   {
+    "version": "2023.3.0b3",
+    "changeset": "205c101ad8b5",
+    "versionNumber": 202303000103,
+    "minor": "2023.3",
+    "lifecycle": "b",
+    "lts": false
+  },
+  {
     "version": "2023.3.0b2",
     "changeset": "3cbab67d3b60",
     "versionNumber": 202303000102,
