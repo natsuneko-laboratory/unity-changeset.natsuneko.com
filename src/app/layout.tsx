@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from "next";
 
 import { Inter } from "next/font/google";
 
+import { Analytics } from "@vercel/analytics/react";
+
 import "./globals.css";
 import { merge } from "@/lib/class";
 import { Footer, Header } from "@natsuneko-laboratory/ui";
@@ -110,6 +112,7 @@ export default function RootLayout({
         <Header brand={brand} href="/" />
         {children}
         <Footer logo={logo} />
+        <Analytics />
       </body>
     </html>
   );
