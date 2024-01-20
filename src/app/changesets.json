@@ -1,5 +1,13 @@
 [
   {
+    "version": "2023.2.6f1",
+    "changeset": "57daeefc879b",
+    "versionNumber": 202302060501,
+    "minor": "2023.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "2023.2.5f1",
     "changeset": "381b4941466e",
     "versionNumber": 202302050501,
