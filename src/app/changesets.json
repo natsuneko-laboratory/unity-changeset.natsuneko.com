@@ -4008,6 +4008,14 @@
     "lts": false
   },
   {
+    "version": "2023.3.0b5",
+    "changeset": "30acc77e9b6b",
+    "versionNumber": 202303000105,
+    "minor": "2023.3",
+    "lifecycle": "b",
+    "lts": false
+  },
+  {
     "version": "2023.3.0b4",
     "changeset": "2cd31b2a2ee2",
     "versionNumber": 202303000104,
