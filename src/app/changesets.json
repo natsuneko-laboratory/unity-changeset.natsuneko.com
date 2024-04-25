@@ -328,6 +328,14 @@
     "lts": false
   },
   {
+    "version": "2022.3.26f1",
+    "changeset": "ec6cd8118806",
+    "versionNumber": 202203260501,
+    "minor": "2022.3",
+    "lifecycle": "f",
+    "lts": true
+  },
+  {
     "version": "2022.3.25f1",
     "changeset": "530ae0ba3889",
     "versionNumber": 202203250501,
