@@ -344,6 +344,14 @@
     "lts": false
   },
   {
+    "version": "2022.3.28f1",
+    "changeset": "6bae5ce6b222",
+    "versionNumber": 202203280501,
+    "minor": "2022.3",
+    "lifecycle": "f",
+    "lts": true
+  },
+  {
     "version": "2022.3.27f1",
     "changeset": "73effa14754f",
     "versionNumber": 202203270501,
