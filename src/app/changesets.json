@@ -1,5 +1,13 @@
 [
   {
+    "version": "6000.0.4f1",
+    "changeset": "b5d5d06b038a",
+    "versionNumber": 600000040501,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "6000.0.3f1",
     "changeset": "019aa96b6ed9",
     "versionNumber": 600000030501,
@@ -1076,6 +1084,14 @@
     "changeset": "369b620af41c",
     "versionNumber": 202201000501,
     "minor": "2022.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2021.3.39f1",
+    "changeset": "fb3b7b32f191",
+    "versionNumber": 202103390501,
+    "minor": "2021.3",
     "lifecycle": "f",
     "lts": false
   },
