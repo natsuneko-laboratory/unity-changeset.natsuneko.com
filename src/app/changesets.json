@@ -2320,6 +2320,174 @@
     "lts": false
   },
   {
+    "version": "2020.2.2f1",
+    "changeset": "068178b99f32",
+    "versionNumber": 202002020501,
+    "minor": "2020.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.2.1f1",
+    "changeset": "270dd8c3da1c",
+    "versionNumber": 202002010501,
+    "minor": "2020.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.2.0f1",
+    "changeset": "3721df5a8b28",
+    "versionNumber": 202002000501,
+    "minor": "2020.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.17f1",
+    "changeset": "9957aee8edc2",
+    "versionNumber": 202001170501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.16f1",
+    "changeset": "f483ad6465d6",
+    "versionNumber": 202001160501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.15f1",
+    "changeset": "97d0ae02d19d",
+    "versionNumber": 202001150501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.14f1",
+    "changeset": "d81f64f5201d",
+    "versionNumber": 202001140501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.13f1",
+    "changeset": "5e24f28bfbc0",
+    "versionNumber": 202001130501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.12f1",
+    "changeset": "55b56f0a86e3",
+    "versionNumber": 202001120501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.11f1",
+    "changeset": "698c1113cef0",
+    "versionNumber": 202001110501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.10f1",
+    "changeset": "974a9d56f159",
+    "versionNumber": 202001100501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.9f1",
+    "changeset": "145f5172610f",
+    "versionNumber": 202001090501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.8f1",
+    "changeset": "22e8c0b0c3ec",
+    "versionNumber": 202001080501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.7f1",
+    "changeset": "064ffcdb64ad",
+    "versionNumber": 202001070501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.6f1",
+    "changeset": "fc477ca6df10",
+    "versionNumber": 202001060501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.5f1",
+    "changeset": "e025938fdedc",
+    "versionNumber": 202001050501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.4f1",
+    "changeset": "fa717bb873ec",
+    "versionNumber": 202001040501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.3f1",
+    "changeset": "cf5c4788e1d8",
+    "versionNumber": 202001030501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.2f1",
+    "changeset": "7b32bc54ba47",
+    "versionNumber": 202001020501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.1f1",
+    "changeset": "2285c3239188",
+    "versionNumber": 202001010501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2020.1.0f1",
+    "changeset": "2ab9c4179772",
+    "versionNumber": 202001000501,
+    "minor": "2020.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "2019.4.40f1",
     "changeset": "ffc62b691db5",
     "versionNumber": 201904400501,
@@ -2496,6 +2664,614 @@
     "lts": false
   },
   {
+    "version": "2019.4.18f1",
+    "changeset": "3310a4d4f880",
+    "versionNumber": 201904180501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.17f1",
+    "changeset": "667c8606c536",
+    "versionNumber": 201904170501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.16f1",
+    "changeset": "e05b6e02d63e",
+    "versionNumber": 201904160501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.15f1",
+    "changeset": "fbf367ac14e9",
+    "versionNumber": 201904150501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.14f1",
+    "changeset": "4037e52648cd",
+    "versionNumber": 201904140501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.13f1",
+    "changeset": "518737b1de84",
+    "versionNumber": 201904130501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.12f1",
+    "changeset": "225e826a680e",
+    "versionNumber": 201904120501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.11f1",
+    "changeset": "2d9804dddde7",
+    "versionNumber": 201904110501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.10f1",
+    "changeset": "5311b3af6f69",
+    "versionNumber": 201904100501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.9f1",
+    "changeset": "50fe8a171dd9",
+    "versionNumber": 201904090501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.8f1",
+    "changeset": "60781d942082",
+    "versionNumber": 201904080501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.7f1",
+    "changeset": "e992b1a16e65",
+    "versionNumber": 201904070501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.6f1",
+    "changeset": "a7aea80e3716",
+    "versionNumber": 201904060501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.5f1",
+    "changeset": "81610f64359c",
+    "versionNumber": 201904050501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.4f1",
+    "changeset": "1f1dac67805b",
+    "versionNumber": 201904040501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.3f1",
+    "changeset": "f880dceab6fe",
+    "versionNumber": 201904030501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.2f1",
+    "changeset": "20b4642a3455",
+    "versionNumber": 201904020501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.1f1",
+    "changeset": "e6c045e14e4e",
+    "versionNumber": 201904010501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.4.0f1",
+    "changeset": "0af376155913",
+    "versionNumber": 201904000501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.15f1",
+    "changeset": "59ff3e03856d",
+    "versionNumber": 201903150501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.14f1",
+    "changeset": "2b330bf6d2d8",
+    "versionNumber": 201903140501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.13f1",
+    "changeset": "d4ddf0d95db9",
+    "versionNumber": 201903130501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.12f1",
+    "changeset": "84b23722532d",
+    "versionNumber": 201903120501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.11f1",
+    "changeset": "ceef2d848e70",
+    "versionNumber": 201903110501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.10f1",
+    "changeset": "5968d7f82152",
+    "versionNumber": 201903100501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.9f1",
+    "changeset": "e6e740a1c473",
+    "versionNumber": 201903090501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.8f1",
+    "changeset": "4ba98e9386ed",
+    "versionNumber": 201903080501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.7f1",
+    "changeset": "6437fd74d35d",
+    "versionNumber": 201903070501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.6f1",
+    "changeset": "5c3fb0a11183",
+    "versionNumber": 201903060501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.5f1",
+    "changeset": "d691e07d38ef",
+    "versionNumber": 201903050501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.4f1",
+    "changeset": "4f139db2fdbd",
+    "versionNumber": 201903040501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.3f1",
+    "changeset": "7ceaae5f7503",
+    "versionNumber": 201903030501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.2f1",
+    "changeset": "c46a3a38511e",
+    "versionNumber": 201903020501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.1f1",
+    "changeset": "89d6087839c2",
+    "versionNumber": 201903010501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.0f6",
+    "changeset": "27ab2135bccf",
+    "versionNumber": 201903000506,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.0f5",
+    "changeset": "44796c9d3c2c",
+    "versionNumber": 201903000505,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.0f3",
+    "changeset": "6c9e2bfd6f81",
+    "versionNumber": 201903000503,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.3.0f1",
+    "changeset": "ffacea4b84e7",
+    "versionNumber": 201903000501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.21f1",
+    "changeset": "9d528d026557",
+    "versionNumber": 201902210501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.20f1",
+    "changeset": "c67d00285037",
+    "versionNumber": 201902200501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.19f1",
+    "changeset": "929ab4d01772",
+    "versionNumber": 201902190501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.18f1",
+    "changeset": "bbf64de26e34",
+    "versionNumber": 201902180501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.17f1",
+    "changeset": "8e603399ca02",
+    "versionNumber": 201902170501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.16f1",
+    "changeset": "b9898e2d04a4",
+    "versionNumber": 201902160501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.15f1",
+    "changeset": "dcb72c2e9334",
+    "versionNumber": 201902150501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.14f1",
+    "changeset": "49dd4e9fa428",
+    "versionNumber": 201902140501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.13f1",
+    "changeset": "e20f6c7e5017",
+    "versionNumber": 201902130501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.12f1",
+    "changeset": "b1a7e1fb4fa5",
+    "versionNumber": 201902120501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.11f1",
+    "changeset": "5f859a4cfee5",
+    "versionNumber": 201902110501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.10f1",
+    "changeset": "923acd2d43aa",
+    "versionNumber": 201902100501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.9f1",
+    "changeset": "ebce4d76e6e8",
+    "versionNumber": 201902090501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.8f1",
+    "changeset": "ff5b465c8d13",
+    "versionNumber": 201902080501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.7f2",
+    "changeset": "c96f78eb5904",
+    "versionNumber": 201902070502,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.6f1",
+    "changeset": "fe82a0e88406",
+    "versionNumber": 201902060501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.5f1",
+    "changeset": "9dace1eed4cc",
+    "versionNumber": 201902050501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.4f1",
+    "changeset": "c63b2af89a85",
+    "versionNumber": 201902040501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.3f1",
+    "changeset": "8e55c27a4621",
+    "versionNumber": 201902030501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.2f1",
+    "changeset": "ab112815d860",
+    "versionNumber": 201902020501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.1f1",
+    "changeset": "ca4d5af0be6f",
+    "versionNumber": 201902010501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.2.0f1",
+    "changeset": "20c1667945cf",
+    "versionNumber": 201902000501,
+    "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.14f1",
+    "changeset": "148b5891095a",
+    "versionNumber": 201901140501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.13f1",
+    "changeset": "b5956c0a61e7",
+    "versionNumber": 201901130501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.12f1",
+    "changeset": "f04f5427219e",
+    "versionNumber": 201901120501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.11f1",
+    "changeset": "9b001d489a54",
+    "versionNumber": 201901110501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.10f1",
+    "changeset": "f007ed779b7a",
+    "versionNumber": 201901100501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.9f1",
+    "changeset": "d5f1b37da199",
+    "versionNumber": 201901090501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.8f1",
+    "changeset": "7938dd008a75",
+    "versionNumber": 201901080501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.7f1",
+    "changeset": "f3c4928e5742",
+    "versionNumber": 201901070501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.6f1",
+    "changeset": "f2970305fe1c",
+    "versionNumber": 201901060501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.5f1",
+    "changeset": "0ca0f5646614",
+    "versionNumber": 201901050501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.4f1",
+    "changeset": "ffa3a7a2dd7d",
+    "versionNumber": 201901040501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.3f1",
+    "changeset": "dc414eb9ed43",
+    "versionNumber": 201901030501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.2f1",
+    "changeset": "3e18427e571f",
+    "versionNumber": 201901020501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.1f1",
+    "changeset": "fef62e97e63b",
+    "versionNumber": 201901010501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.0f2",
+    "changeset": "292b93d75a2c",
+    "versionNumber": 201901000502,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2019.1.0f1",
+    "changeset": "5c52223b18d4",
+    "versionNumber": 201901000501,
+    "minor": "2019.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "2018.4.36f1",
     "changeset": "6cd387d23174",
     "versionNumber": 201804360501,
@@ -2540,6 +3316,1142 @@
     "changeset": "212ea663d844",
     "versionNumber": 201804310501,
     "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.30f1",
+    "changeset": "c698a062d8e6",
+    "versionNumber": 201804300501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.29f1",
+    "changeset": "50cce2edf27f",
+    "versionNumber": 201804290501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.28f1",
+    "changeset": "a2d4f71491a4",
+    "versionNumber": 201804280501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.27f1",
+    "changeset": "4e283b7d3f88",
+    "versionNumber": 201804270501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.26f1",
+    "changeset": "a7ac1c6396db",
+    "versionNumber": 201804260501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.25f1",
+    "changeset": "b07bfa0a8827",
+    "versionNumber": 201804250501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.24f1",
+    "changeset": "3071911a89e9",
+    "versionNumber": 201804240501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.23f1",
+    "changeset": "c9cf1a90e812",
+    "versionNumber": 201804230501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.22f1",
+    "changeset": "3362ffbb7aa1",
+    "versionNumber": 201804220501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.21f1",
+    "changeset": "fd3915227633",
+    "versionNumber": 201804210501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.20f1",
+    "changeset": "008688490035",
+    "versionNumber": 201804200501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.19f1",
+    "changeset": "459f70f82ea4",
+    "versionNumber": 201804190501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.18f1",
+    "changeset": "61fce66342ad",
+    "versionNumber": 201804180501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.17f1",
+    "changeset": "b830f56f42f0",
+    "versionNumber": 201804170501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.16f1",
+    "changeset": "e6e9ca02b32a",
+    "versionNumber": 201804160501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.15f1",
+    "changeset": "13f5a1bf9ca1",
+    "versionNumber": 201804150501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.14f1",
+    "changeset": "05119b33d0b7",
+    "versionNumber": 201804140501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.13f1",
+    "changeset": "497f083a43af",
+    "versionNumber": 201804130501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.12f1",
+    "changeset": "59ddc4c59b4f",
+    "versionNumber": 201804120501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.11f1",
+    "changeset": "7098af2f11ea",
+    "versionNumber": 201804110501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.10f1",
+    "changeset": "a0470569e97b",
+    "versionNumber": 201804100501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.9f1",
+    "changeset": "ca372476eaba",
+    "versionNumber": 201804090501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.8f1",
+    "changeset": "9bc9d983d803",
+    "versionNumber": 201804080501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.7f1",
+    "changeset": "b9a993fd1334",
+    "versionNumber": 201804070501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.6f1",
+    "changeset": "cde1bbcc9f0d",
+    "versionNumber": 201804060501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.5f1",
+    "changeset": "7b38f8ac282e",
+    "versionNumber": 201804050501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.4f1",
+    "changeset": "5440768ff61c",
+    "versionNumber": 201804040501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.3f1",
+    "changeset": "8a9509a5aff9",
+    "versionNumber": 201804030501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.2f1",
+    "changeset": "d6fb3630ea75",
+    "versionNumber": 201804020501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.1f1",
+    "changeset": "b7c424a951c0",
+    "versionNumber": 201804010501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.4.0f1",
+    "changeset": "b6ffa8986c8d",
+    "versionNumber": 201804000501,
+    "minor": "2018.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.14f1",
+    "changeset": "d0e9f15437b1",
+    "versionNumber": 201803140501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.13f1",
+    "changeset": "06548a9e9582",
+    "versionNumber": 201803130501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.12f1",
+    "changeset": "8afd630d1f5b",
+    "versionNumber": 201803120501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.11f1",
+    "changeset": "5063218e4ab8",
+    "versionNumber": 201803110501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.10f1",
+    "changeset": "f88de2c96e63",
+    "versionNumber": 201803100501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.9f1",
+    "changeset": "947e1ea5aa8d",
+    "versionNumber": 201803090501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.8f1",
+    "changeset": "fc0fe30d6d91",
+    "versionNumber": 201803080501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.7f1",
+    "changeset": "9e14d22a41bb",
+    "versionNumber": 201803070501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.6f1",
+    "changeset": "a220877bc173",
+    "versionNumber": 201803060501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.5f1",
+    "changeset": "76b3e37670a4",
+    "versionNumber": 201803050501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.4f1",
+    "changeset": "1d952368ca3a",
+    "versionNumber": 201803040501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.3f1",
+    "changeset": "393bae82dbb8",
+    "versionNumber": 201803030501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.2f1",
+    "changeset": "b3c100a4b73a",
+    "versionNumber": 201803020501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.1f1",
+    "changeset": "bb579dc42f1d",
+    "versionNumber": 201803010501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.0f2",
+    "changeset": "6e9a27477296",
+    "versionNumber": 201803000502,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.3.0f1",
+    "changeset": "f023c421e164",
+    "versionNumber": 201803000501,
+    "minor": "2018.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.21f1",
+    "changeset": "a122f5dc316d",
+    "versionNumber": 201802210501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.20f1",
+    "changeset": "cef3e6c0c622",
+    "versionNumber": 201802200501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.19f1",
+    "changeset": "06990f28ba00",
+    "versionNumber": 201802190501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.18f1",
+    "changeset": "4550892b6062",
+    "versionNumber": 201802180501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.17f1",
+    "changeset": "88933597c842",
+    "versionNumber": 201802170501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.16f1",
+    "changeset": "39a4ac3d51f6",
+    "versionNumber": 201802160501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.15f1",
+    "changeset": "65e0713a5949",
+    "versionNumber": 201802150501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.14f1",
+    "changeset": "3262fb3b0716",
+    "versionNumber": 201802140501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.13f1",
+    "changeset": "83fbdcd35118",
+    "versionNumber": 201802130501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.12f1",
+    "changeset": "0a46ddfcfad4",
+    "versionNumber": 201802120501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.11f1",
+    "changeset": "38bd7dec5000",
+    "versionNumber": 201802110501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.10f1",
+    "changeset": "674aa5a67ed5",
+    "versionNumber": 201802100501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.9f1",
+    "changeset": "2207421190e9",
+    "versionNumber": 201802090501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.8f1",
+    "changeset": "ae1180820377",
+    "versionNumber": 201802080501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.7f1",
+    "changeset": "4ebd28dd9664",
+    "versionNumber": 201802070501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.6f1",
+    "changeset": "c591d9a97a0b",
+    "versionNumber": 201802060501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.5f1",
+    "changeset": "3071d1717b71",
+    "versionNumber": 201802050501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.4f1",
+    "changeset": "cb262d9ddeaf",
+    "versionNumber": 201802040501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.3f1",
+    "changeset": "1431a7d2ced7",
+    "versionNumber": 201802030501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.2f1",
+    "changeset": "c18cef34cbcd",
+    "versionNumber": 201802020501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.1f1",
+    "changeset": "1a9968d9f99c",
+    "versionNumber": 201802010501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.0f2",
+    "changeset": "787658998520",
+    "versionNumber": 201802000502,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.2.0f1",
+    "changeset": "51acc5a75f1e",
+    "versionNumber": 201802000501,
+    "minor": "2018.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.9f2",
+    "changeset": "a6cc294b73ee",
+    "versionNumber": 201801090502,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.8f1",
+    "changeset": "26051d4de9e9",
+    "versionNumber": 201801080501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.7f1",
+    "changeset": "4cb482063d12",
+    "versionNumber": 201801070501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.6f1",
+    "changeset": "57cc34175ccf",
+    "versionNumber": 201801060501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.5f1",
+    "changeset": "732dbf75922d",
+    "versionNumber": 201801050501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.4f1",
+    "changeset": "1a308f4ebef1",
+    "versionNumber": 201801040501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.3f1",
+    "changeset": "a53ad04f7c7f",
+    "versionNumber": 201801030501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.2f1",
+    "changeset": "a46d718d282d",
+    "versionNumber": 201801020501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.1f1",
+    "changeset": "b8cbb5de9840",
+    "versionNumber": 201801010501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.0f2",
+    "changeset": "d4d99f31acba",
+    "versionNumber": 201801000502,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2018.1.0f1",
+    "changeset": "21784bcc13fa",
+    "versionNumber": 201801000501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.40f1",
+    "changeset": "6e14067f8a9a",
+    "versionNumber": 201704400501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.39f1",
+    "changeset": "947131c5be7e",
+    "versionNumber": 201704390501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.38f1",
+    "changeset": "82ac2fb100ce",
+    "versionNumber": 201704380501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.37f1",
+    "changeset": "78b69503ebc4",
+    "versionNumber": 201704370501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.36f1",
+    "changeset": "c663def8414c",
+    "versionNumber": 201704360501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.35f1",
+    "changeset": "e57a7bcbbf0b",
+    "versionNumber": 201704350501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.34f1",
+    "changeset": "121f18246307",
+    "versionNumber": 201704340501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.33f1",
+    "changeset": "a8557a619e24",
+    "versionNumber": 201704330501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.32f1",
+    "changeset": "4da3ed968770",
+    "versionNumber": 201704320501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.31f1",
+    "changeset": "9c8dbc3421cb",
+    "versionNumber": 201704310501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.30f1",
+    "changeset": "c6fa43736cae",
+    "versionNumber": 201704300501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.29f1",
+    "changeset": "06508aa14ca1",
+    "versionNumber": 201704290501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.28f1",
+    "changeset": "e3a0f7dd2097",
+    "versionNumber": 201704280501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.27f1",
+    "changeset": "0c4b856e4c6e",
+    "versionNumber": 201704270501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.26f1",
+    "changeset": "3b349d10f010",
+    "versionNumber": 201704260501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.25f1",
+    "changeset": "9cba1c3a94f1",
+    "versionNumber": 201704250501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.24f1",
+    "changeset": "786769fc3439",
+    "versionNumber": 201704240501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.23f1",
+    "changeset": "f80c8a98b1b5",
+    "versionNumber": 201704230501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.22f1",
+    "changeset": "eb4bc6fa7f1d",
+    "versionNumber": 201704220501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.21f1",
+    "changeset": "de35fe252486",
+    "versionNumber": 201704210501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.20f2",
+    "changeset": "413dbd19b6dc",
+    "versionNumber": 201704200502,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.19f1",
+    "changeset": "47cd37c28be8",
+    "versionNumber": 201704190501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.18f1",
+    "changeset": "a9236f402e28",
+    "versionNumber": 201704180501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.17f1",
+    "changeset": "05307cddbb71",
+    "versionNumber": 201704170501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.16f1",
+    "changeset": "7f7bdd1ef02b",
+    "versionNumber": 201704160501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.15f1",
+    "changeset": "5d485b4897a7",
+    "versionNumber": 201704150501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.14f1",
+    "changeset": "b28150134d55",
+    "versionNumber": 201704140501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.13f1",
+    "changeset": "6902ad48015d",
+    "versionNumber": 201704130501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.12f1",
+    "changeset": "b582b87345b1",
+    "versionNumber": 201704120501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.11f1",
+    "changeset": "8c6b8ef6d111",
+    "versionNumber": 201704110501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.10f1",
+    "changeset": "f2cce2a5991f",
+    "versionNumber": 201704100501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.9f1",
+    "changeset": "6d84dfc57ccf",
+    "versionNumber": 201704090501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.8f1",
+    "changeset": "5ab7f4878ef1",
+    "versionNumber": 201704080501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.7f1",
+    "changeset": "de9eb5ca33c5",
+    "versionNumber": 201704070501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.6f1",
+    "changeset": "c24f30193bac",
+    "versionNumber": 201704060501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.5f1",
+    "changeset": "89d1db9cb682",
+    "versionNumber": 201704050501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.4f1",
+    "changeset": "645c9050ba4d",
+    "versionNumber": 201704040501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.3f1",
+    "changeset": "21ae32b5a9cb",
+    "versionNumber": 201704030501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.2f2",
+    "changeset": "52d9cb89b362",
+    "versionNumber": 201704020502,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.1f1",
+    "changeset": "9231f953d9d3",
+    "versionNumber": 201704010501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.4.0f1",
+    "changeset": "b5bd171ee9ba",
+    "versionNumber": 201704000501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.3.1f1",
+    "changeset": "fc1d3344e6ea",
+    "versionNumber": 201703010501,
+    "minor": "2017.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.3.0f3",
+    "changeset": "a9f86dcd79df",
+    "versionNumber": 201703000503,
+    "minor": "2017.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.3.0f2",
+    "changeset": "d3a5469e8c44",
+    "versionNumber": 201703000502,
+    "minor": "2017.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.3.0f1",
+    "changeset": "b84f5794ed91",
+    "versionNumber": 201703000501,
+    "minor": "2017.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.5f1",
+    "changeset": "588dc79c95ed",
+    "versionNumber": 201702050501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.4f1",
+    "changeset": "f1557d1f61fd",
+    "versionNumber": 201702040501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.3f1",
+    "changeset": "372229934efd",
+    "versionNumber": 201702030501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.2f1",
+    "changeset": "1f4e0f9b6a50",
+    "versionNumber": 201702020501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.1f1",
+    "changeset": "94bf3f9e6b5e",
+    "versionNumber": 201702010501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.0f3",
+    "changeset": "46dda1414e51",
+    "versionNumber": 201702000503,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.0f2",
+    "changeset": "472de62575d5",
+    "versionNumber": 201702000502,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.2.0f1",
+    "changeset": "35e55a2a85de",
+    "versionNumber": 201702000501,
+    "minor": "2017.2",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.5f1",
+    "changeset": "9758a36cfaa6",
+    "versionNumber": 201701050501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.4f1",
+    "changeset": "9fd71167a288",
+    "versionNumber": 201701040501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.3f1",
+    "changeset": "574eeb502d14",
+    "versionNumber": 201701030501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.2f1",
+    "changeset": "cc85bf6a8a04",
+    "versionNumber": 201701020501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.1f1",
+    "changeset": "5d30cf096e79",
+    "versionNumber": 201701010501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f3",
+    "changeset": "472613c02cf7",
+    "versionNumber": 201701000503,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f2",
+    "changeset": "66e9e4bfc850",
+    "versionNumber": 201701000502,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f1",
+    "changeset": "4d7fe18a2f34",
+    "versionNumber": 201701000501,
+    "minor": "2017.1",
     "lifecycle": "f",
     "lts": false
   }
