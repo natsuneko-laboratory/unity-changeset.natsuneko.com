@@ -504,6 +504,14 @@
     "lts": false
   },
   {
+    "version": "2022.3.39f1",
+    "changeset": "4e1b0f82c39a",
+    "versionNumber": 202203390501,
+    "minor": "2022.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "2022.3.38f1",
     "changeset": "c5d5a7410213",
     "versionNumber": 202203380501,
@@ -1188,6 +1196,14 @@
     "changeset": "369b620af41c",
     "versionNumber": 202201000501,
     "minor": "2022.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2021.3.41f1",
+    "changeset": "6c5a9e20c022",
+    "versionNumber": 202103410501,
+    "minor": "2021.3",
     "lifecycle": "f",
     "lts": false
   },
