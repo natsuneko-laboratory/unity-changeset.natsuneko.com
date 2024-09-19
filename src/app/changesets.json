@@ -1,5 +1,13 @@
 [
   {
+    "version": "6000.0.20f1",
+    "changeset": "05208a74e9aa",
+    "versionNumber": 600000200501,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "6000.0.19f1",
     "changeset": "302b264628f9",
     "versionNumber": 600000190501,
