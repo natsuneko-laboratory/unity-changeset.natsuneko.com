@@ -1336,6 +1336,14 @@
     "lts": false
   },
   {
+    "version": "2021.3.44f1",
+    "changeset": "94d194ca434d",
+    "versionNumber": 202103440501,
+    "minor": "2021.3",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "2021.3.43f1",
     "changeset": "6f9470916942",
     "versionNumber": 202103430501,
