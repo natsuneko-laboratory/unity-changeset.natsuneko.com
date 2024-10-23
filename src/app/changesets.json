@@ -4678,5 +4678,37 @@
     "minor": "2017.1",
     "lifecycle": "f",
     "lts": false
+  },
+  {
+    "version": "2017.1.1f1",
+    "changeset": "5d30cf096e79",
+    "versionNumber": 201701010501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f3",
+    "changeset": "472613c02cf7",
+    "versionNumber": 201701000503,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f2",
+    "changeset": "66e9e4bfc850",
+    "versionNumber": 201701000502,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
+    "version": "2017.1.0f1",
+    "changeset": "4d7fe18a2f34",
+    "versionNumber": 201701000501,
+    "minor": "2017.1",
+    "lifecycle": "f",
+    "lts": false
   }
 ]
