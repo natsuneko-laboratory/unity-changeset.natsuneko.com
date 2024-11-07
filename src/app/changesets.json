@@ -4454,5 +4454,13 @@
     "minor": "2022.3",
     "lifecycle": "f",
     "lts": false
+  },
+  {
+    "version": "6000.1.0a3",
+    "changeset": "26ee3f072390",
+    "versionNumber": 600001000003,
+    "minor": "6000.1",
+    "lifecycle": "a",
+    "lts": false
   }
 ]
