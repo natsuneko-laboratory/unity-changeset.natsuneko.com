@@ -1,66 +1,10 @@
 [
   {
-    "version": "6000.1.0a9",
-    "changeset": "0115cb901a32",
-    "versionNumber": 600001000009,
+    "version": "6000.1.0b1",
+    "changeset": "747f458f33a3",
+    "versionNumber": 600001000101,
     "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a8",
-    "changeset": "330fbefc18b7",
-    "versionNumber": 600001000008,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a7",
-    "changeset": "7a0c1f937016",
-    "versionNumber": 600001000007,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a6",
-    "changeset": "3b090bf0e2f9",
-    "versionNumber": 600001000006,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a5",
-    "changeset": "025711cf5da4",
-    "versionNumber": 600001000005,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a4",
-    "changeset": "85b340e59dad",
-    "versionNumber": 600001000004,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a3",
-    "changeset": "26ee3f072390",
-    "versionNumber": 600001000003,
-    "minor": "6000.1",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.1.0a2",
-    "changeset": "a89db594e032",
-    "versionNumber": 600001000002,
-    "minor": "6000.1",
-    "lifecycle": "a",
+    "lifecycle": "b",
     "lts": false
   },
   {
