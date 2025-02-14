@@ -8,6 +8,14 @@
     "lts": false
   },
   {
+    "version": "6000.1.0b6",
+    "changeset": "ec21b2dabf4e",
+    "versionNumber": 600001000106,
+    "minor": "6000.1",
+    "lifecycle": "b",
+    "lts": false
+  },
+  {
     "version": "6000.1.0b5",
     "changeset": "7d9a76ad3b39",
     "versionNumber": 600001000105,
