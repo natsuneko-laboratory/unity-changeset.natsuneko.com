@@ -808,6 +808,14 @@
     "lts": false
   },
   {
+    "version": "2022.3.59f1",
+    "changeset": "630718f645a5",
+    "versionNumber": 202203590501,
+    "minor": "2022.3",
+    "lifecycle": "f",
+    "lts": true
+  },
+  {
     "version": "2022.3.58f1",
     "changeset": "ed7f6eacb62e",
     "versionNumber": 202203580501,
