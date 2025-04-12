@@ -32,6 +32,14 @@
     "lts": false
   },
   {
+    "version": "6000.1.0b14",
+    "changeset": "18b9f00e83e1",
+    "versionNumber": 600001000114,
+    "minor": "6000.1",
+    "lifecycle": "b",
+    "lts": false
+  },
+  {
     "version": "6000.1.0b13",
     "changeset": "81eefeb8a871",
     "versionNumber": 600001000113,
@@ -134,6 +142,14 @@
     "minor": "6000.1",
     "lifecycle": "b",
     "lts": false
+  },
+  {
+    "version": "6000.0.46f1",
+    "changeset": "fb93bc360d3a",
+    "versionNumber": 600000460501,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": true
   },
   {
     "version": "6000.0.45f1",
