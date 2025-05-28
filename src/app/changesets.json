@@ -16,6 +16,14 @@
     "lts": false
   },
   {
+    "version": "6000.1.5f1",
+    "changeset": "923722cbbcfc",
+    "versionNumber": 600001050501,
+    "minor": "6000.1",
+    "lifecycle": "f",
+    "lts": false
+  },
+  {
     "version": "6000.1.4f1",
     "changeset": "03270eb687c6",
     "versionNumber": 600001040501,
