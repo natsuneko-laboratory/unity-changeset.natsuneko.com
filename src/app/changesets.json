@@ -2965,7 +2965,7 @@
     "versionNumber": 202002070501,
     "minor": "2020.2",
     "lifecycle": "f",
-    "lts": true
+    "lts": false
   },
   {
     "version": "2020.2.6f1",
