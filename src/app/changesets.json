@@ -16,107 +16,11 @@
     "lts": false
   },
   {
-    "version": "6000.2.0b13",
-    "changeset": "97eaab855a3c",
-    "versionNumber": 600002000113,
+    "version": "6000.2.0f1",
+    "changeset": "eed1c594c913",
+    "versionNumber": 600002000501,
     "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b12",
-    "changeset": "d8d65c0eba17",
-    "versionNumber": 600002000112,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b11",
-    "changeset": "f8763d3ca6e2",
-    "versionNumber": 600002000111,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b10",
-    "changeset": "49b019a01a23",
-    "versionNumber": 600002000110,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b9",
-    "changeset": "377f5a9787ef",
-    "versionNumber": 600002000109,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b8",
-    "changeset": "cf6d2d083ec9",
-    "versionNumber": 600002000108,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b7",
-    "changeset": "f57a55ac740d",
-    "versionNumber": 600002000107,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b6",
-    "changeset": "439913089442",
-    "versionNumber": 600002000106,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b5",
-    "changeset": "c1cd6601d4c1",
-    "versionNumber": 600002000105,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b4",
-    "changeset": "eb7dd46c99ad",
-    "versionNumber": 600002000104,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b3",
-    "changeset": "4504a57e80f0",
-    "versionNumber": 600002000103,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b2",
-    "changeset": "2bdac9ac0d74",
-    "versionNumber": 600002000102,
-    "minor": "6000.2",
-    "lifecycle": "b",
-    "lts": false
-  },
-  {
-    "version": "6000.2.0b1",
-    "changeset": "d17678da8412",
-    "versionNumber": 600002000101,
-    "minor": "6000.2",
-    "lifecycle": "b",
+    "lifecycle": "f",
     "lts": false
   },
   {
