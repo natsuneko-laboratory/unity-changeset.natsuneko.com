@@ -1,26 +1,10 @@
 [
   {
-    "version": "6000.3.0a5",
-    "changeset": "36d7e9fd6645",
-    "versionNumber": 600003000005,
+    "version": "6000.3.0b1",
+    "changeset": "0470b869db67",
+    "versionNumber": 600003000101,
     "minor": "6000.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.3.0a3",
-    "changeset": "14d049ebeaff",
-    "versionNumber": 600003000003,
-    "minor": "6000.3",
-    "lifecycle": "a",
-    "lts": false
-  },
-  {
-    "version": "6000.3.0a2",
-    "changeset": "d454866889d5",
-    "versionNumber": 600003000002,
-    "minor": "6000.3",
-    "lifecycle": "a",
+    "lifecycle": "b",
     "lts": false
   },
   {
