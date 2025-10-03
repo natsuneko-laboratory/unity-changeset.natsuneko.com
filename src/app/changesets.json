@@ -44,6 +44,17 @@
     "xlts": false
   },
   {
+    "version": "6000.2.6f2",
+    "changeset": "4a4dcaec6541",
+    "versionNumber": 600002060502,
+    "minor": "6000.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.2.6f1",
     "changeset": "cc51a95c0300",
     "versionNumber": 600002060501,
@@ -114,6 +125,17 @@
     "changeset": "eed1c594c913",
     "versionNumber": 600002000501,
     "minor": "6000.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.1.17f1",
+    "changeset": "c0b9d3899998",
+    "versionNumber": 600001170501,
+    "minor": "6000.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
@@ -304,6 +326,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.0.58f2",
+    "changeset": "92dee566b325",
+    "versionNumber": 600000580502,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -1056,6 +1089,17 @@
     "xlts": false
   },
   {
+    "version": "2023.2.22f1",
+    "changeset": "6b19bf4f8115",
+    "versionNumber": 202302220501,
+    "minor": "2023.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2023.2.20f1",
     "changeset": "0e25a174756c",
     "versionNumber": 202302200501,
@@ -1280,6 +1324,17 @@
     "changeset": "d0d63d039a6f",
     "versionNumber": 202302000501,
     "minor": "2023.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2023.1.22f1",
+    "changeset": "c1416845ad01",
+    "versionNumber": 202301220501,
+    "minor": "2023.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
@@ -2211,6 +2266,17 @@
     "xlts": false
   },
   {
+    "version": "2022.2.23f1",
+    "changeset": "16a49e77427a",
+    "versionNumber": 202202230501,
+    "minor": "2022.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2022.2.21f1",
     "changeset": "4907324dc95b",
     "versionNumber": 202202210501,
@@ -2446,6 +2512,17 @@
     "changeset": "35dcd44975df",
     "versionNumber": 202202000501,
     "minor": "2022.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2022.1.25f1",
+    "changeset": "6eece5ec9edc",
+    "versionNumber": 202201250501,
+    "minor": "2022.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
@@ -2724,6 +2801,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2021.3.45f2",
+    "changeset": "88f88f591b2e",
+    "versionNumber": 202103450502,
+    "minor": "2021.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -3234,6 +3322,17 @@
     "xlts": false
   },
   {
+    "version": "2021.2.20f1",
+    "changeset": "bcf509533812",
+    "versionNumber": 202102200501,
+    "minor": "2021.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2021.2.19f1",
     "changeset": "602ecdbb2fb0",
     "versionNumber": 202102190501,
@@ -3447,6 +3546,17 @@
     "changeset": "4bf1ec4b23c9",
     "versionNumber": 202102000501,
     "minor": "2021.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2021.1.29f1",
+    "changeset": "db29239097bd",
+    "versionNumber": 202101290501,
+    "minor": "2021.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
@@ -3758,6 +3868,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2020.3.49f1",
+    "changeset": "18249dd5551b",
+    "versionNumber": 202003490501,
+    "minor": "2020.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -4301,6 +4422,17 @@
     "xlts": false
   },
   {
+    "version": "2020.2.8f1",
+    "changeset": "8d515ec5f4e8",
+    "versionNumber": 202002080501,
+    "minor": "2020.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2020.2.7f1",
     "changeset": "c53830e277f1",
     "versionNumber": 202002070501,
@@ -4382,6 +4514,17 @@
     "changeset": "3721df5a8b28",
     "versionNumber": 202002000501,
     "minor": "2020.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2020.1.18f1",
+    "changeset": "de967051c903",
+    "versionNumber": 202001180501,
+    "minor": "2020.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
@@ -4583,6 +4726,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2019.4.41f1",
+    "changeset": "fb553f8fdd6c",
+    "versionNumber": 201904410501,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -5038,6 +5192,17 @@
     "xlts": false
   },
   {
+    "version": "2019.3.17f1",
+    "changeset": "3146848a1e9d",
+    "versionNumber": 201903170501,
+    "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2019.3.15f1",
     "changeset": "59ff3e03856d",
     "versionNumber": 201903150501,
@@ -5240,6 +5405,17 @@
     "changeset": "ffacea4b84e7",
     "versionNumber": 201903000501,
     "minor": "2019.3",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2019.2.23f1",
+    "changeset": "87f4fccf3219",
+    "versionNumber": 201902230501,
+    "minor": "2019.2",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
@@ -5482,6 +5658,17 @@
     "changeset": "20c1667945cf",
     "versionNumber": 201902000501,
     "minor": "2019.2",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "2019.1.15f1",
+    "changeset": "583d034c23b3",
+    "versionNumber": 201901150501,
+    "minor": "2019.1",
     "lifecycle": "f",
     "lts": false,
     "stream": "TECH",
