@@ -8479,5 +8479,16 @@
     "stream": "LTS",
     "entitlements": [],
     "xlts": false
+  },
+  {
+    "version": "5.0.0f4",
+    "changeset": "5b98b70ebeb9",
+    "versionNumber": 500000504,
+    "minor": "5.0",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
   }
 ]
