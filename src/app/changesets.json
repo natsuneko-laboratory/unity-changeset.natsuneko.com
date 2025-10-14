@@ -6743,6 +6743,17 @@
     "xlts": false
   },
   {
+    "version": "2018.1.9f1",
+    "changeset": "24bbd83e8b9e",
+    "versionNumber": 201801090501,
+    "minor": "2018.1",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2018.1.8f1",
     "changeset": "26051d4de9e9",
     "versionNumber": 201801080501,
