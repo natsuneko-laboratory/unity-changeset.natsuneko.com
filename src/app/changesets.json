@@ -4796,6 +4796,17 @@
     "xlts": false
   },
   {
+    "version": "2019.4.41f2",
+    "changeset": "6b23d448b533",
+    "versionNumber": 201904410502,
+    "minor": "2019.4",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "TECH",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2019.4.41f1",
     "changeset": "fb553f8fdd6c",
     "versionNumber": 201904410501,
