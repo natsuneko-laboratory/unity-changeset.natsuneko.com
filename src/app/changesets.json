@@ -4801,8 +4801,8 @@
     "versionNumber": 201904410502,
     "minor": "2019.4",
     "lifecycle": "f",
-    "lts": false,
-    "stream": "TECH",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
