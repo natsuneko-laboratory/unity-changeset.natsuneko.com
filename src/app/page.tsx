@@ -2,12 +2,8 @@ import {
   Container,
   Heading1,
   Heading2,
-  Input,
-  ListItem,
   Paragraph,
   Section,
-  Stack,
-  UnorderedList,
 } from "@natsuneko-laboratory/ui";
 
 import type { Metadata } from "next";

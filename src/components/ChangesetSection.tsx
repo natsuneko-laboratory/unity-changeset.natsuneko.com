@@ -25,7 +25,7 @@ const chunk = <T,>(items: T[], len: number): T[][] => {
 
 const toVersion = (v: string): [number, number, number, number] => {
   const m =
-    /(?<major>[0-9]+)\.(?<minor>[0-9]+)\.(?<patch>[0-9]+)[abf](?<revision>[0-9]+)/i.exec(
+    /(?<major>[0-9]+)\.(?<minor>[0-9]+)\.(?<patch>[0-9]+)[abfp](?<revision>[0-9]+)/i.exec(
       v
     );
   return [
