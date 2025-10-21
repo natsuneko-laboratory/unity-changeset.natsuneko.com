@@ -4345,6 +4345,17 @@
     "xlts": false
   },
   {
+    "version": "2020.3.15f1",
+    "changeset": "5e502cb56e17",
+    "versionNumber": 202003150501,
+    "minor": "2020.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2020.3.14f1",
     "changeset": "d0d1bb862f9d",
     "versionNumber": 202003140501,
