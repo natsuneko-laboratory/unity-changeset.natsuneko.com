@@ -7150,6 +7150,17 @@
     "xlts": false
   },
   {
+    "version": "2017.4.20f1",
+    "changeset": "20968fa45e51",
+    "versionNumber": 201704200501,
+    "minor": "2017.4",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2017.4.19f1",
     "changeset": "47cd37c28be8",
     "versionNumber": 201704190501,
