@@ -1672,6 +1672,17 @@
     "xlts": false
   },
   {
+    "version": "2022.3.62f3",
+    "changeset": "96770f904ca7",
+    "versionNumber": 202203620503,
+    "minor": "2022.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "2022.3.62f2",
     "changeset": "7670c08855a9",
     "versionNumber": 202203620502,
