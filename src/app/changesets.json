@@ -11,6 +11,17 @@
     "xlts": false
   },
   {
+    "version": "6000.3.0b8",
+    "changeset": "e2637a2f0801",
+    "versionNumber": 600003000108,
+    "minor": "6000.3",
+    "lifecycle": "b",
+    "lts": false,
+    "stream": "BETA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.3.0b7",
     "changeset": "1bec74c0745e",
     "versionNumber": 600003000107,
