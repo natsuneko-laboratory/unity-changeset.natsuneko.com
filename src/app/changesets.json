@@ -110,6 +110,17 @@
     "xlts": false
   },
   {
+    "version": "6000.3.14f1",
+    "changeset": "d68c3f99a318",
+    "versionNumber": 600003140501,
+    "minor": "6000.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.3.13f1",
     "changeset": "8c4f11e4fb20",
     "versionNumber": 600003130501,
