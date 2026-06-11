@@ -1,5 +1,16 @@
 [
   {
+    "version": "6000.6.0a6",
+    "changeset": "5c9528587bc8",
+    "versionNumber": 600006000006,
+    "minor": "6000.6",
+    "lifecycle": "a",
+    "lts": false,
+    "stream": "ALPHA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.6.0a5",
     "changeset": "e220e6931c38",
     "versionNumber": 600006000005,
@@ -29,6 +40,28 @@
     "lifecycle": "a",
     "lts": false,
     "stream": "ALPHA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.5.0b11",
+    "changeset": "25d6213cd1ab",
+    "versionNumber": 600005000111,
+    "minor": "6000.5",
+    "lifecycle": "b",
+    "lts": false,
+    "stream": "BETA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.5.0b10",
+    "changeset": "fc01675d12b6",
+    "versionNumber": 600005000110,
+    "minor": "6000.5",
+    "lifecycle": "b",
+    "lts": false,
+    "stream": "BETA",
     "entitlements": [],
     "xlts": false
   },
@@ -132,6 +165,39 @@
     "xlts": false
   },
   {
+    "version": "6000.4.10f1",
+    "changeset": "feeafc12a938",
+    "versionNumber": 600004100501,
+    "minor": "6000.4",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.4.9f1",
+    "changeset": "f7258d6eebbe",
+    "versionNumber": 600004090501,
+    "minor": "6000.4",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.4.8f1",
+    "changeset": "f8b72d3d7343",
+    "versionNumber": 600004080501,
+    "minor": "6000.4",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.4.7f1",
     "changeset": "f3c3c4248748",
     "versionNumber": 600004070501,
@@ -216,6 +282,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.3.17f1",
+    "changeset": "cf0352b38e81",
+    "versionNumber": 600003170501,
+    "minor": "6000.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -799,6 +876,28 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.0.77f1",
+    "changeset": "88f89d0d8b31",
+    "versionNumber": 600000770501,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.0.76f1",
+    "changeset": "6f7f9e1c9e8a",
+    "versionNumber": 600000760501,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
