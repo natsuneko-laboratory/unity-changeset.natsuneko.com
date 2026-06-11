@@ -1,5 +1,16 @@
 [
   {
+    "version": "6000.6.0a7",
+    "changeset": "240d06e2411b",
+    "versionNumber": 600006000007,
+    "minor": "6000.6",
+    "lifecycle": "a",
+    "lts": false,
+    "stream": "ALPHA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.6.0a6",
     "changeset": "5c9528587bc8",
     "versionNumber": 600006000006,
@@ -161,6 +172,17 @@
     "lifecycle": "b",
     "lts": false,
     "stream": "BETA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.4.11f1",
+    "changeset": "b0a1d6caadd2",
+    "versionNumber": 600004110501,
+    "minor": "6000.4",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
     "entitlements": [],
     "xlts": false
   },
