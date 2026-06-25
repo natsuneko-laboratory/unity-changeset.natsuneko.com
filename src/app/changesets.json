@@ -1,9 +1,9 @@
 [
   {
-    "version": "6000.6.0a7",
-    "changeset": "240d06e2411b",
-    "versionNumber": 600006000007,
-    "minor": "6000.6",
+    "version": "6000.7.0a1",
+    "changeset": "0fe3875ef801",
+    "versionNumber": 600007000001,
+    "minor": "6000.7",
     "lifecycle": "a",
     "lts": false,
     "stream": "ALPHA",
@@ -11,46 +11,13 @@
     "xlts": false
   },
   {
-    "version": "6000.6.0a6",
-    "changeset": "5c9528587bc8",
-    "versionNumber": 600006000006,
+    "version": "6000.6.0b1",
+    "changeset": "bec83302551e",
+    "versionNumber": 600006000101,
     "minor": "6000.6",
-    "lifecycle": "a",
+    "lifecycle": "b",
     "lts": false,
-    "stream": "ALPHA",
-    "entitlements": [],
-    "xlts": false
-  },
-  {
-    "version": "6000.6.0a5",
-    "changeset": "e220e6931c38",
-    "versionNumber": 600006000005,
-    "minor": "6000.6",
-    "lifecycle": "a",
-    "lts": false,
-    "stream": "ALPHA",
-    "entitlements": [],
-    "xlts": false
-  },
-  {
-    "version": "6000.6.0a3",
-    "changeset": "93858bc74878",
-    "versionNumber": 600006000003,
-    "minor": "6000.6",
-    "lifecycle": "a",
-    "lts": false,
-    "stream": "ALPHA",
-    "entitlements": [],
-    "xlts": false
-  },
-  {
-    "version": "6000.6.0a2",
-    "changeset": "64de5ee36373",
-    "versionNumber": 600006000002,
-    "minor": "6000.6",
-    "lifecycle": "a",
-    "lts": false,
-    "stream": "ALPHA",
+    "stream": "BETA",
     "entitlements": [],
     "xlts": false
   },
