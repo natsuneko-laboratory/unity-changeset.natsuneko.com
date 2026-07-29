@@ -88,6 +88,17 @@
     "xlts": false
   },
   {
+    "version": "6000.5.6f1",
+    "changeset": "0e0577a1a2ac",
+    "versionNumber": 600005060501,
+    "minor": "6000.5",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.5.5f1",
     "changeset": "d16e074b49fd",
     "versionNumber": 600005050501,
@@ -293,6 +304,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.3.21f1",
+    "changeset": "c02631ffc030",
+    "versionNumber": 600003210501,
+    "minor": "6000.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
