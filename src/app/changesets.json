@@ -66,6 +66,17 @@
     "xlts": false
   },
   {
+    "version": "6000.6.1f1",
+    "changeset": "7efac9f6c10e",
+    "versionNumber": 600006010501,
+    "minor": "6000.6",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.6.0f1",
     "changeset": "f7f8ed4d1e24",
     "versionNumber": 600006000501,
