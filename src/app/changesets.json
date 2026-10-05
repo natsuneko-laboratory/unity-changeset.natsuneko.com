@@ -1,5 +1,16 @@
 [
   {
+    "version": "6000.7.0b3",
+    "changeset": "ad717268ad45",
+    "versionNumber": 600007000103,
+    "minor": "6000.7",
+    "lifecycle": "b",
+    "lts": false,
+    "stream": "BETA",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.7.0b2",
     "changeset": "d6546dc2b3a9",
     "versionNumber": 600007000102,
