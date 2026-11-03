@@ -143,6 +143,17 @@
     "xlts": false
   },
   {
+    "version": "6000.6.8f1",
+    "changeset": "237b6593792b",
+    "versionNumber": 600006080501,
+    "minor": "6000.6",
+    "lifecycle": "f",
+    "lts": false,
+    "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
     "version": "6000.6.7f1",
     "changeset": "b22767f04f04",
     "versionNumber": 600006070501,
@@ -502,6 +513,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.3.28f1",
+    "changeset": "8f082d2fe476",
+    "versionNumber": 600003280501,
+    "minor": "6000.3",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
@@ -1217,6 +1239,17 @@
     "lifecycle": "f",
     "lts": false,
     "stream": "SUPPORTED",
+    "entitlements": [],
+    "xlts": false
+  },
+  {
+    "version": "6000.0.85f2",
+    "changeset": "b028303d8e7d",
+    "versionNumber": 600000850502,
+    "minor": "6000.0",
+    "lifecycle": "f",
+    "lts": true,
+    "stream": "LTS",
     "entitlements": [],
     "xlts": false
   },
